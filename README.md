@@ -1,2 +1,1 @@
-# shell-scripting-projects
-projects on shell scripting
+NOTE: REPLACE YOUR AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE.
