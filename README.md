@@ -1,6 +1,7 @@
 # AWS S3 Event Triggering
 
 NOTE: REPLACE YOUR AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE.
+
 Amazon S3 event notifications are widely used by numerous top companies to automate processes and integrate various services. Here are some examples of prominent companies that utilize S3 event triggering:
 
 **Netflix**: Uses S3 event notifications to automate data processing workflows, such as encoding video files when new content is uploaded to S3.
